@@ -1,3 +1,0 @@
-SoundCloud Client ID: YxQYlFPNletSMSZ4b8Svv9FTYgbNbM79
-
-YouTube Client ID: AIzaSyANSjoepQpC8fXjNAbN4VXBmc1c8to6Ums
